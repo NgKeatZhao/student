@@ -20,7 +20,6 @@ portalocker==2.0.0
 pycparser==2.20
 pyOpenSSL==20.0.1
 pyparsing==2.4.7
-pypiwin32==223
 python-dateutil==2.8.1
 pytz==2020.5
 requests==2.25.1
